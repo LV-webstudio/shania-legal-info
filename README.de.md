@@ -1,8 +1,10 @@
-[English](README.md) · [Español](README.es.md) · [Français](README.fr.md) · **Deutsch** · [Português](README.pt.md)
-
-# Shania Legal
+# Shania Legal — spanisches und EU-Recht mit zitierten Artikeln
 
 > Spanische und europäische Rechtsrecherche mit zitierten Artikeln und einer Zitatprüfung, die nicht auf einem KI-Modell beruht.
+
+Von [Shania Webstudio](https://shaniawebstudio.com), Granada (Spanien).
+
+[English](README.md) · [Español](README.es.md) · [Français](README.fr.md) · **Deutsch** · [Português](README.pt.md)
 
 ## Was es ist
 
